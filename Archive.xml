@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<archive>
+	<material
+		author="Martina McMahon"
+		name="History of the ancient world"
+		faculty="History"
+		cathedra="Ancient world history"
+		size="205 p"
+		dateofCreating="2005">
+	</material>
+	<material
+		author="Dev Noguera"
+		name="Statistics"
+		faculty="Mathematic"
+		cathedra="Statistics"
+		size="290 p"
+		dateofCreating="2001">
+	</material>
+	<material
+		author="Shalva Alberighi"
+		name="Probability theory"
+		faculty="Mathematic"
+		cathedra="Probability theory"
+		size="190 p"
+		dateofCreating="1999">
+	</material>
+	<material
+		author="Ruaridh Fiscella"
+		name="Problems from physics competitions 1994-2004"
+		faculty="Physics"
+		cathedra="Physics"
+		size="110 p"
+		dateofCreating="2005">
+	</material>
+	<material
+		author="Ea Dimov"
+		name="Introduction to mathematical analysis"
+		faculty="Cybernetics"
+		cathedra="Mathematical analysis"
+		size="270 p"
+		dateofCreating="2009">
+	</material>
+	<material
+		author="Randulf Abbaticchio"
+		name="British literature in 19th century"
+		faculty="Philological"
+		cathedra="Literature"
+		size="150 p"
+		dateofCreating="2020">
+	</material>
+</archive>
